@@ -1,2 +1,1 @@
-# I like to build things, pokemon, overengineering, open-source, kanye west, my family, cows, trees and bees. I dont like beautiful github README.md files  
-Learning rust and Golang
+# I don't have a nice readme.md yet sorry
